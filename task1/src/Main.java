@@ -11,5 +11,6 @@ void main() {
    System.out.println(c.getArea(x));
    Square square = context.getBean(Square.class);
    System.out.println(square.getArea(x));
+   // unfriend
 
 }
