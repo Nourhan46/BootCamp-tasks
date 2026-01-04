@@ -1,0 +1,8 @@
+# Ignore libraries
+libs/
+*.jar
+
+# Ignore IntelliJ files
+.idea/
+*.iml
+out/
